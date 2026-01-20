@@ -45,4 +45,28 @@ It does not represent a commercial offering, token sale, or investment product.
 
 ---
 
+NFT Identification
+
+NFT Name: Some One Solution
+
+Network: TON Blockchain
+
+Marketplace: Getgems
+
+Token Type: Non-Fungible Token (NFT)
+
+Edition: 1/1 (Genesis)
+
+Metadata Image:
+https://s.getgems.io/nft/s/676a/676a52cfb3e677e8fa89f054/nft/1251509.png
+
+Marketplace URL:
+https://getgems.io/nft/EQDdlXaassfHLL3XxGrU-TeE0Sg4chOpopIsMNzsk6HJF3rm
+
+Current Owner Wallet:
+(UQDMDbXoIEaNAlBHgjKyABX644_LmIWwKLIe0pDjBn0fz_6n)
+
+Mint Date:
+(24.12.2024)
+
 © Dmytro Koval — Some One Solution
