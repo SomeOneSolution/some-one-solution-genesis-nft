@@ -70,3 +70,15 @@ Mint Date:
 (24.12.2024)
 
 © Dmytro Koval — Some One Solution
+
+---
+
+## IPFS Proof of Origin
+
+The Certificate of Origin for this NFT has been permanently stored on IPFS.
+
+CID:
+bafkreic2fifc4jadwpq25hy3mtidrog55q4jmg4dk6ypermkbikkah3r7e
+
+IPFS Gateway URL:
+https://gateway.lighthouse.storage/ipfs/bafkreic2fifc4jadwpq25hy3mtidrog55q4jmg4dk6ypermkbikkah3r7e
